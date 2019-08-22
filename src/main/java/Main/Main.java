@@ -27,11 +27,11 @@ public class Main {
 
         //URL数据demo
         urls = new URL[]{
-                new URL("http://news.youth.cn/gn/index.htm"),
-                new URL("http://news.youth.cn/gn/index_1.htm"),
-                new URL("http://news.youth.cn/gn/index_2.htm"),
-                new URL("http://news.youth.cn/gn/index_3.htm"),
-                new URL("http://news.youth.cn/gn/index_4.htm")
+                new URL("http://nc.mofcom.gov.cn/channel/jghq2017/price_list.shtml?par_craft_index=13075&craft_index=20413&par_p_index=&p_index=&startTime=2019-05-17&endTime=2019-08-15"),
+                new URL("http://nc.mofcom.gov.cn/channel/jghq2017/price_list.shtml?par_craft_index=13075&craft_index=20411&par_p_index=&p_index=&startTime=2019-05-17&endTime=2019-08-15"),
+                new URL("http://nc.mofcom.gov.cn/channel/jghq2017/price_list.shtml?par_craft_index=13075&craft_index=13811&par_p_index=&p_index=&startTime=2019-05-17&endTime=2019-08-15"),
+                new URL("http://nc.mofcom.gov.cn/channel/jghq2017/price_list.shtml?par_craft_index=13075&craft_index=13515&par_p_index=&p_index=&startTime=2019-05-17&endTime=2019-08-15"),
+                new URL("http://nc.mofcom.gov.cn/channel/jghq2017/price_list.shtml?par_craft_index=13075&craft_index=13509&par_p_index=&p_index=&startTime=2019-05-17&endTime=2019-08-15")
         };
 
         //单线程启动demo
